@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\bin\Debug\SLNPOOIslasKaren.exe.config
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\bin\Debug\SLNPOOIslasKaren.exe
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\bin\Debug\SLNPOOIslasKaren.pdb
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\obj\Debug\SLNPOOIslasKaren.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\obj\Debug\SLNPOOIslasKaren.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\obj\Debug\SLNPOOIslasKaren.Properties.Resources.resources
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\obj\Debug\SLNPOOIslasKaren.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\obj\Debug\SLNPOOIslasKaren.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\obj\Debug\SLNPOOIslasKaren.exe
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\obj\Debug\SLNPOOIslasKaren.pdb
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\bin\Debug\WindowsEFDatos.exe
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\bin\Debug\WindowsEFDatos.pdb
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\bin\Debug\WindowsEFDatos.exe.config
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\source\repos\SLNPOOIslasKaren\SLNPOOIslasKaren\obj\Debug\SLNPOOIslasKaren.csproj.CopyComplete
