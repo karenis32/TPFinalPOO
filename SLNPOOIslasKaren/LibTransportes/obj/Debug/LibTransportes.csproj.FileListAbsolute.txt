@@ -4,3 +4,9 @@ C:\Users\Usuario\source\repos\SLNPOOIslasKaren\LibTransportes\obj\Debug\LibTrans
 C:\Users\Usuario\source\repos\SLNPOOIslasKaren\LibTransportes\obj\Debug\LibTransportes.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\SLNPOOIslasKaren\LibTransportes\obj\Debug\LibTransportes.dll
 C:\Users\Usuario\source\repos\SLNPOOIslasKaren\LibTransportes\obj\Debug\LibTransportes.pdb
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\LibTransportes\bin\Debug\LibTransportes.dll
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\LibTransportes\bin\Debug\LibTransportes.pdb
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\LibTransportes\obj\Debug\LibTransportes.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\LibTransportes\obj\Debug\LibTransportes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\LibTransportes\obj\Debug\LibTransportes.dll
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\LibTransportes\obj\Debug\LibTransportes.pdb

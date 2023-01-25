@@ -6,15 +6,20 @@ using System.Threading.Tasks;
 
 namespace LibTransportes
 {
-    public class Camión : Transporte
+    public class Camion : Transporte
     {
         public double PesoMaximo { get; set; }
         public Remolque remolque { get; set; }
 
 
-        public Camión(string marca, string modelo, string patente, double pesoMaximo) : base(marca, modelo, patente)
+        public Camion(string marca, string modelo, string patente, double pesoMaximo) : base(marca, modelo, patente)
         {
             PesoMaximo = pesoMaximo;
+        }
+
+        public override string ToString()
+        {
+            return "Marca: " + Marca + "\nModelo: " + Modelo + "\nPatente: " + Patente + "\nPeso máximo: " + PesoMaximo;
         }
 
         public override string Acelerar()

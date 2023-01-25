@@ -8,7 +8,7 @@ namespace LibTransportes
 {
     public class Remolque
     {
-        public Camión camión { get; set; }
+        public Camion camión { get; set; }
 
     }
 }

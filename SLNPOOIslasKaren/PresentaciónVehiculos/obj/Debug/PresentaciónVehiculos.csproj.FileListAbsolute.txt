@@ -12,3 +12,17 @@ C:\Users\Usuario\source\repos\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\
 C:\Users\Usuario\source\repos\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.csproj.CopyComplete
 C:\Users\Usuario\source\repos\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.exe
 C:\Users\Usuario\source\repos\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.pdb
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\bin\Debug\PresentaciónVehiculos.exe.config
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\bin\Debug\PresentaciónVehiculos.exe
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\bin\Debug\PresentaciónVehiculos.pdb
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\bin\Debug\LibTransportes.dll
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\bin\Debug\LibTransportes.pdb
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.frmVehiculos.resources
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.Properties.Resources.resources
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.exe
+C:\Users\Usuario\source\repos\TPFinalPOO\SLNPOOIslasKaren\PresentaciónVehiculos\obj\Debug\PresentaciónVehiculos.pdb

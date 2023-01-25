@@ -6,13 +6,18 @@ using System.Threading.Tasks;
 
 namespace LibTransportes
 {
-    public class AutoEléctrico : Transporte
+    public class AutoElectrico : Transporte
     {
         public bool BateriaCargada { get; set; }
 
-        public AutoEléctrico(string marca, string modelo, string patente, bool bateriaCargada) : base(marca, modelo, patente)
+        public AutoElectrico(string marca, string modelo, string patente, bool bateriaCargada) : base(marca, modelo, patente)
         {
             BateriaCargada = bateriaCargada;
+        }
+
+        public override string ToString()
+        {
+            return "Marca: " + Marca + "\nModelo: " + Modelo + "\nPatente: " + Patente + "\nBateria cargada: " + BateriaCargada;
         }
 
         public override string Acelerar()
